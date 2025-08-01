@@ -90,7 +90,7 @@ function App() {
                     Stay in the loop
                   </h1>
                   <p className="text-xl md:text-2xl text-gray-600 font-light leading-relaxed max-w-2xl mx-auto">
-                    Get thoughtful insights and updates delivered to your inbox. 
+                    Get educational insights and updates delivered to your inbox. 
                     No spam, just quality content.
                   </p>
                 </div>
@@ -122,7 +122,7 @@ function App() {
                     <div className="space-y-3">
                       <h3 className="text-xl font-medium text-gray-900">Weekly Insights</h3>
                       <p className="text-gray-600 font-light leading-relaxed">
-                        Thoughtful analysis and perspectives delivered every week
+                        Educational analysis and perspectives delivered every week
                       </p>
                     </div>
                   </div>
