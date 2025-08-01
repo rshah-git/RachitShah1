@@ -12,8 +12,6 @@ function App() {
 
   const navigation = [
     { name: 'Home', icon: Mail, view: 'home' as View },
-    { name: 'Subscribers', icon: Users, view: 'subscribers' as View },
-    { name: 'Templates', icon: PenTool, view: 'templates' as View },
   ];
 
   return (
