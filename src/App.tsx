@@ -22,7 +22,7 @@ function App() {
           <div className="flex justify-between items-center h-20">
             <div className="flex items-center">
               <div className="flex-shrink-0 flex items-center">
-                <span className="text-2xl font-light text-gray-900 tracking-tight">Newsletter</span>
+                <span className="text-2xl font-light text-gray-900 tracking-tight">Rachit Shah's Newsletter</span>
               </div>
               
               <div className="hidden md:ml-16 md:flex md:space-x-12">
@@ -188,7 +188,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-6 lg:px-8">
           <div className="text-center">
             <p className="text-gray-500 font-light">
-              © 2025 Newsletter. Built with care.
+              © 2025 Rachit Shah's Newsletter. Built with care.
             </p>
           </div>
         </div>
